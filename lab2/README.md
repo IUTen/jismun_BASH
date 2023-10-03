@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Asm-FASM-blue?label=Asm&labelColor=%231303fc&color=%23ffffff">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-BASH-blue?label=Asm&labelColor=%231303fc&color=%23ffffff">
 </p>
 
 
